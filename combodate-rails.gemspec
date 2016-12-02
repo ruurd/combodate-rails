@@ -2,7 +2,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
 	s.name        = "combodate-rails"
-	s.version     = "1.0.1"
+	s.version     = "1.0.7"
 	s.authors     = ["Ruurd Pels"]
 	s.homepage    = "https://github.com/ruurd/combodate-rails"
 	s.summary     = "The Combodate JavaScript library ready to play with Rails."
